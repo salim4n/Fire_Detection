@@ -1,6 +1,6 @@
 # Fire Detection using YOLOv8
 
-![Fire Detection]
+[Fire Detection]
 
 This repository contains an implementation of YOLOv8 trained to detect fire. The YOLO (You Only Look Once) algorithm is a real-time object detection system.
 
