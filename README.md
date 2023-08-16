@@ -6,7 +6,7 @@ This repository contains an implementation of YOLOv8 trained to detect fire. The
 
 ## Getting Started
 
-1. **Clone the Repository**: Clone this repository to your local machine using `git clone https://github.com/yourusername/Fire_Detection.git`.
+1. **Clone the Repository**: Clone this repository to your local machine using `git clone https://github.com/salim4n/Fire_Detection.git`.
 
 2. **Install Python**: Make sure you have Python installed on your computer.
 
